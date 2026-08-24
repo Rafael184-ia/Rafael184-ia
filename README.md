@@ -14,7 +14,7 @@ Me chamo Rafael Alves Aquino tenho 19 anos,graduando em Inteligência Artificial
     title = "python"
     width = "30px"
     style = "padding-right: 10px;"
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
 <img 
