@@ -9,31 +9,31 @@ Eu me chamo Rafael Alves Aquino tenho 19 anos,graduando em Inteligência Artific
 
 
 <img
-    align = left
-    alt = "python"
-    title = "python"
-    width = "30px"
-    style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
+    align="left"
+    alt="python"
+    title="python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
     />
           
 
 <img 
-    align = left
-    alt = "jupyter notebook"
-    title = "jupyter notebook"
-    width = "30px"
-    style = "padding-right: 10px;"
+    align="left"
+    alt="jupyter notebook"
+    title="jupyter notebook"
+    width="30px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
     />
 
 
     
 <img 
-    align = left
-    alt = "postgresql"
-    title = "postgresql"
-    width = "30px"
-    style = "padding-right: 10px;"
+    align="left"
+    alt="postgresql"
+    title="postgresql"
+    width="30px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
     />
