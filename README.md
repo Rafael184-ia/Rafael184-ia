@@ -14,7 +14,7 @@ Eu me chamo Rafael Alves Aquino tenho 19 anos,graduando em Inteligência Artific
     title="python"
     width="30px"
     style="padding-right: 10px;"
-   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
     />
           
 
