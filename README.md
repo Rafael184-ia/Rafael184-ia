@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Rafael Aquino
 **Inteligência Artificial**
 
-Rafael Alves Aquino tenho 19 anos,graduando em Inteligência Artificial pela Faculdade de Tecnologia Senai Desenvolvimento de Sistemas (FATESG), atualmente cursando o segundo período. Desenvolvo estudos e atividades acadêmicas com foco em IA, ciência de dados e desenvolvimento de software. Possui conhecimento em língua inglesa (nível básico)  e conhecimentos em python e SQL ,facilidade para o aprendizado de novas tecnologias. Demonstra perfil colaborativo, com aptidão para o trabalho em equipe e interesse em participar de projetos de pesquisa, iniciação científica e inovação tecnológica
+Rafael Alves Aquino tenho 19 anos, graduando em Inteligência Artificial pela Faculdade de Tecnologia Senai Desenvolvimento de Sistemas (FATESG), atualmente cursando o segundo período. Desenvolvo estudos e atividades acadêmicas com foco em IA, ciência de dados e  desenvolvimento de software. Possui conhecimento em língua inglesa (nível básico)  e conhecimentos em python e SQL ,facilidade para o aprendizado de novas tecnologias. Demonstra perfil colaborativo, com aptidão para o trabalho em equipe e interesse em participar de projetos de pesquisa, iniciação científica e inovação tecnológica
 
 ---
 
