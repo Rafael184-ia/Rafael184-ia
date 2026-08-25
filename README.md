@@ -23,7 +23,7 @@ alt = "DBeaver"
 title = "DBeaver"
 width = "30px"
 style = "padding-right: 10px;"
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
           
 
 
@@ -34,7 +34,7 @@ alt = "postgresql"
 title = "postgresql"
 width = "30px"
 style = "padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 ---
  ### 💻Projetos
 
