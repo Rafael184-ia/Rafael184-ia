@@ -1,3 +1,7 @@
+---
+import { Python } from "@dev.icons/react";
+---
+
 # 👨🏽‍💻 Rafael Aquino
 **Inteligência Artificial**
 
@@ -14,7 +18,7 @@ Me chamo Rafael Alves Aquino tenho 19 anos,graduando em Inteligência Artificial
     title = "python"
     width = "30px"
     style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg />
+    <Python size={32} client:load /> />
           
 
 <img 
