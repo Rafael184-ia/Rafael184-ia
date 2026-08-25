@@ -19,11 +19,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 <img 
 align = left
-alt = "jupyter notebook"
-title = "jupyter notebook"
+alt = "DBeaver"
+title = "DBeaver"
 width = "30px"
 style = "padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
           
 
 
